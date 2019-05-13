@@ -1,25 +1,16 @@
-# iseseisev-projekt
-Eesrakenduste arendamise iseseisva projekti lähteülesanne. 
+iseseisev-projekt
 
-Töö võib teha teha 1-4 liikmelise meeskonnana. Punkte jaotatakse vastavalt sellele, mitu liiget on meeskonnas:
-* 1 liige - max 60 punkti/inimene.
-* 2 liiget - max 40 punkti/inimene.
-* 3 liiget - max 30 punkti/inimene.
-* 4 liiget - max 20 punkti/inimene.
+Kursuse TODO
 
-**NB! Kui meeskonnas on rohkem kui üks liige, siis peab githubis selgelt välja tulema, kes millist osa tegi, et oleks võimalik hinnata iga meeskonnaliikme individuaalset panust.**
+Aautorid: Raimo Pregel, Merilin Võrk, Kristian Paekivi
 
-README.md fail sisaldab:
-1. suurelt rakenduse nime;
-1. autorite nimesid;
-1. rakenduse funktsionaalsuse kirjeldust;
-1. ekraanitõmmist rakendusest.
+Funktsionaalsused:
 
-Rakenduse puhul peavad olema täidetud vähemalt järgmised nõuded:
-  * rakendus lahendab tõsist probleemi või on meelelahutusliku eesmärgiga; 
-  * rakenduse idee peab olema kooskõlastatud õppejõuga;
-  * töötab võrguta olekus;
-  * responsive disain;
-  * saab kasutada "add to Home screen" funktsionaalsust.
-
-Rakenduses võib kasutada teiste autorite koodi, kuid enda panus peab olema natuke enamat kui võrguta olekus töötamine. 
+- dünaamiline muutmine
+- Aine nimetuste lisamine
+- Ainetele kodutööde lisamine
+- Aine nimetuse muutmine
+- Kodutöö nimetuse muutmine
+- Ainete kustutamine
+- Kodutööde kustutamine
+- Lisamenüü linkidega
